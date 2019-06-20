@@ -1,5 +1,4 @@
 
-// Formating double result, trimming it to one decimal
 import java.text.DecimalFormat;
 import discountcards.BronzeCard;
 import discountcards.DiscountCard;
