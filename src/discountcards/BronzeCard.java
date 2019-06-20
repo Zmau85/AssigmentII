@@ -48,7 +48,7 @@ public class BronzeCard extends DiscountCard {
 		return discountRate;
 	}
 
-	// toString method (formality)
+	// toString method 
 	@Override
 	public String toString() {
 		return super.toString();

@@ -10,7 +10,7 @@ public class DiscountCard {
 
 	private double discountRate;
 
-	// Empty constructor (formality)
+	// Empty constructor 
 	public DiscountCard() {
 	}
 
@@ -51,7 +51,7 @@ public class DiscountCard {
 		return discountRate;
 	}
 
-	// toString method (formality)
+	// toString method 
 	@Override
 	public String toString() {
 		return "DiscountCard [owner=" + owner + ", turnover=" + turnover + "]";
